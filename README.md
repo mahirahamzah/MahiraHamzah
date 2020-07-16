@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1][7]
+[![alt text][1.1]][1]
 [![alt text][2.1]][2]
 <!--[![alt text][3.1]][3]
 [![alt text][4.1]][4] -->
@@ -55,13 +55,11 @@ Here are some ideas to get you started:
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/MahiraHmzh
+[1]: http://www.twitter.com/MahiraHmzh =100x20
 [2]: https://www.instagram.com/aira.hmzh/
 <!--[3]: https://plus.google.com/+CarlSednaoui
 <[4]: http://carlsed.tumblr.com -->
 [5]: https://www.linkedin.com/in/mahirahamzah/ 
 [6]: http://www.github.com/MahiraHamzah
-
-[7]: { width: 200px; }
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
