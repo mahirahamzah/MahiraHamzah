@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 [1]: http://www.twitter.com/MahiraHmzh
 
-[s]: { width:150px;height:100px;}
+[s]:{ width=50%}
