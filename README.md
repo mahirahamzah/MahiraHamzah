@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<p align="center">
+<img align="center" src="https://img.shields.io/badge/Mahira-Hamzah-blue">
+</p>
+<h3 align="center">Manufacturing Engineer 👩‍🏭 | Python 🐍 | SQL 🗃️ | Machine Learning 🎰 </h3>
 
-🌱 I’m currently learning Machine Learning
+
+
+### Find me here
+* [@MahiraHmzh](https://twitter.com/MahiraHmzh?lang=en) at twitter
+* LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
