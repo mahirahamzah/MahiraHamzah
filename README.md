@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![alt text][2.1]][2]
 
 
-[1.1]: https://i.imgur.com/iYkheW1.png (twitter icon with padding)
+[1.1]: http://www.entypo.com/images/twitter.svg
 [2.1]: http://www.entypo.com/images/instagram.svg
 
 [1]: http://www.twitter.com/MahiraHmzh
