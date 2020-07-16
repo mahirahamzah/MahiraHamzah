@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * [@MahiraHmzh](https://twitter.com/MahiraHmzh?lang=en) at twitter
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">
 
 [![alt text][1.1]][1]
 
