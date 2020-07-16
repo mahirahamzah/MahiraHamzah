@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/iYkheW1.png (twitter icon with padding)
-[2.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png (facebook icon with padding)
+[2.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png  =100x20 (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: https://i.imgur.com/rwYRqn6.png (linkedin icon with padding)
