@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * [@MahiraHmzh](https://twitter.com/MahiraHmzh?lang=en) at twitter
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
-a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 [![alt text][1.1]][1]
 
