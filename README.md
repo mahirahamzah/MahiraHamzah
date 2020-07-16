@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * [@MahiraHmzh](https://twitter.com/MahiraHmzh?lang=en) at twitter
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
-![Kitten](/media/2018/08/kitten.jpg){ width=50% }
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 [![alt text][1.1]][1]
 
