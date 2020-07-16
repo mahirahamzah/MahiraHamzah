@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/MahiraHmzh =100x20
+[1]: http://www.twitter.com/MahiraHmzh
 [2]: https://www.instagram.com/aira.hmzh/
 <!--[3]: https://plus.google.com/+CarlSednaoui
 <[4]: http://carlsed.tumblr.com -->
