@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**mahirahamzah/mahirahamzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <br>
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/Mahira-Hamzah-blue">
@@ -27,7 +10,7 @@ Here are some ideas to get you started:
 * [@MahiraHmzh](https://twitter.com/MahiraHmzh?lang=en) at twitter
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href="http://www.twitter.com/MahiraHmzh"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" height="48" width="48" ></a>
 
 [![alt text][1.1]][1]
 
