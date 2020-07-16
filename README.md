@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![alt text][1.1]][1][s]
+
 
 
 [1.1]: https://edent.github.io/SuperTinyIcons/images/png/twitter.png
-[2.1]: http://www.entypo.com/images/instagram.svg
+
 
 [1]: http://www.twitter.com/MahiraHmzh
-[2]: https://www.instagram.com/aira.hmzh/
 
+[s]: { width:150px;height:100px;}
