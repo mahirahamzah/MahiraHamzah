@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
 
-[1.1]][1][2]
+[! alt text][1.1]][1][2]
 
 
 
