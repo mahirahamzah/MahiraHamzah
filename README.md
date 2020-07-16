@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/Mahira-Hamzah-blue">
 </p>
-<h3 align="center">Manufacturing Engineer 👩‍🏭 | Python 🐍 | SQL 🗃️ | Machine Learning 🎰 </h3>
+<h3 align="center">Manufacturing System Developer 👩‍🏭 | Python 🐍 | SQL 🗃️ | Machine Learning 🎰 </h3>
 
 
 
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1] [![alt text][5.1]][5]
-<!--[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![alt text][1.1]][1] 
+[![alt text][2.1]][2]
+<!--[![alt text][3.1]][3]
 [![alt text][4.1]][4] -->
-
+[![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/iYkheW1.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: https://i.imgur.com/rwYRqn6.png (linkedin icon with padding)
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/MahiraHmzh
-<!--[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
+[2]: https://www.instagram.com/aira.hmzh/
+<!--[3]: https://plus.google.com/+CarlSednaoui
 <[4]: http://carlsed.tumblr.com -->
 [5]: https://www.linkedin.com/in/mahirahamzah/ 
 [6]: http://www.github.com/MahiraHamzah
