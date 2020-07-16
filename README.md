@@ -10,4 +10,4 @@
 * [@MahiraHmzh](https://twitter.com/MahiraHmzh?lang=en) at twitter
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
-<a href="http://www.twitter.com/MahiraHmzh"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" height="48" width="48" target="_blank"></a>
+<a href="http://www.twitter.com/MahiraHmzh" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" height="48" width="48" ></a>
