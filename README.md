@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 * LinkedIn at [MahiraHamzah](https://www.linkedin.com/in/mahirahamzah/)
 
 
-[![alt text][1.1][2]][1]
+[![alt text][1.1]][1]
 
 
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 [1]: http://www.twitter.com/MahiraHmzh
 
-[2]:{ width=50%}
+![Kitten](/media/2018/08/kitten.jpg){ width=50% }
